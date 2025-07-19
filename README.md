@@ -3,8 +3,7 @@ This is my first Git repository.
 <br>
 Author - Samiksha Mate
 
-// C++ program to implement
-// the above approach
+
 #include <bits/stdc++.h>
 
 using namespace std;
